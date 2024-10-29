@@ -23,5 +23,7 @@ definindo a porta 5555
 
 ![image](https://github.com/user-attachments/assets/321fdf9e-b091-4a8b-8785-35958231d4f1)
 
+Relatórios  gerados de largura de banda com métricas de transferências a cada 10 segundos
+
 ![image](https://github.com/user-attachments/assets/4a5fac6f-ea5b-4b37-9b33-b22e7aef8d23)
 
