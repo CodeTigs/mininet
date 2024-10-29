@@ -1,4 +1,4 @@
-# mininet
+# mininet aprendizado
 Tiago Rodrigues Plum Ferreira GEC 1996
 Matheus José Almeida Finamor GEC 1436
 
