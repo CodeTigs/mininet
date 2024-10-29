@@ -16,7 +16,7 @@ Este comando verifica a conectividade entre todos os pares de hosts na rede e mo
 
 teste da conectividade entre dois hosts específicos. Por exemplo, para pingar o Host 1 a partir do Host ,2:
 
-![image](https://github.com/user-attachments/assets/6a513ab5-0107-486e-a167-55ff788f29c1)
+![image](https://github.com/user-attachments/assets/e23e5ed0-4539-4cf3-98dc-779d85b80c93)
 
 
 definindo a porta 5555
