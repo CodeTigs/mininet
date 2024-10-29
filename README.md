@@ -3,6 +3,7 @@ Tiago Rodrigues Plum Ferreira GEC 1996
 Matheus José Almeida Finamor GEC 1436
 
 Esse comando lista todos os nós da rede (hosts e switches) e mostra como eles estão conectados, permitindo que você visualize a topologia e confirme a conectividade.
+
 ![image](https://github.com/user-attachments/assets/ff33f676-5bde-4eb5-913f-ecb2c278bbf5)
 
 Esse comando exibe os detalhes de configuração de cada nó, incluindo endereços IP, MAC e portas das interfaces de rede.
